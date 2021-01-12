@@ -11,6 +11,7 @@ function Nav() {
           </div>
           <div>
             <Button size='small' primary label="Sign in"/>
+            <Button size='small' primary label="Sign in"/>
           </div>
         </div>
     )
