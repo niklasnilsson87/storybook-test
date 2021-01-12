@@ -7,6 +7,7 @@ function Nav() {
         <div className="app-nav">
           <div>
             <h1>ImageVault</h1>
+            <h2>Testing branch</h2>
           </div>
           <div>
             <Button size='small' primary label="Sign in"/>
